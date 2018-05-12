@@ -1,0 +1,32 @@
+_repo: Le-Naturalisme-au-th--tre-les-th-ories-et-les-exemples_13866
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13866'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Naturalism in literature'
+- !lcc 'PQ'
+- !lcsh 'French drama -- 19th century -- History and criticism'
+title: Le Naturalisme au théâtre, les théories et les exemples
+url: http://www.gutenberg.org/ebooks/13866
